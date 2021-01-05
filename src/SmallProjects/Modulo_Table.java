@@ -1,3 +1,5 @@
+package SmallProjects;
+
 public class Modulo_Table {
     public static void main(String[] args) {
         horizontalModulo();

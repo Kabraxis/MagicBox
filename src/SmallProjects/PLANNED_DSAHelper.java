@@ -1,4 +1,4 @@
-/* ~ Planned program ~ Skills have to be learned. Code has to be build.
+package SmallProjects;/* ~ Planned program ~ Skills have to be learned. Code has to be build.
  * -- DSA-Helper --
  * Goal is to write a program that tells you on what Stats you have to roll your dice for a certain action,
  * and if the rolled number must be higher than your Stat or lower in order to succeed.

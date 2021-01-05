@@ -1,4 +1,4 @@
-/* ~ Planned program ~ Skills have to be learned. Code has to be build.
+package SmallProjects;/* ~ Planned program ~ Skills have to be learned. Code has to be build.
  * -- Binary Grid --
  * Goal is to write a program to transforms user-entered decimal numbers to binary numbers in the shown below grid.
  * It must at least contain of all columns from 1 - 1024, starting from right to left.
